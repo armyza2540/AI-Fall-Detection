@@ -1,0 +1,5 @@
+super-gradients==3.1.0
+Flask
+imutils
+virtualenv
+
